@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+.menu{
+    background-color: white;
+}
+body{
+    background-color: black;
+    font-family: arial;
+}
+/*nav*/
+
+.menu a{
+    color: black;
+    text-decoration: none;
+    margin-right: 10px;
+}
+header{
+    color: white;
+    text-align: center;
+}
+header.site-init{
+
+    color:white;
+    text-align: center;
+} 
+.site-init h2{
+    color:white;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+.site-init p{
+    color: white;
+    font-size: 18px;
+    margin: 10px 0;
+}
+.site-init span{
+    border-bottom: 2px solid #ffcc00;
+
+}
